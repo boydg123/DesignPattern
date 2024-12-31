@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "观察者模式", "观察�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern1", "观察者模式\ObserverPattern1\ObserverPattern1.csproj", "{E1CEF317-641F-49AA-A323-B6A2626F959B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern2", "观察者模式\ObserverPattern2\ObserverPattern2.csproj", "{C8C15D0D-B8D3-4467-BB2A-49B6C78AB67D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{E1CEF317-641F-49AA-A323-B6A2626F959B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1CEF317-641F-49AA-A323-B6A2626F959B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1CEF317-641F-49AA-A323-B6A2626F959B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C15D0D-B8D3-4467-BB2A-49B6C78AB67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C15D0D-B8D3-4467-BB2A-49B6C78AB67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C15D0D-B8D3-4467-BB2A-49B6C78AB67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C15D0D-B8D3-4467-BB2A-49B6C78AB67D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E1CEF317-641F-49AA-A323-B6A2626F959B} = {1D677BF3-63B8-4B84-A3B3-AB7E86BD0576}
+		{C8C15D0D-B8D3-4467-BB2A-49B6C78AB67D} = {1D677BF3-63B8-4B84-A3B3-AB7E86BD0576}
 	EndGlobalSection
 EndGlobal
